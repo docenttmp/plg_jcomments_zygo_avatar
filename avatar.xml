@@ -46,15 +46,15 @@
 					name="avatar_custom_default_avatar"
 					type="media" 
 					label="PLG_JCOMMENTS_AVATAR_FIELD_CUSTOM_DEFAULT_AVATAR_LABEL" 
-					description="PLG_JCOMMENTS_AVATAR_FIELD_CUSTOM_DEFAULT_AVATAR_DESC">
-				</field>	
+					description="PLG_JCOMMENTS_AVATAR_FIELD_CUSTOM_DEFAULT_AVATAR_DESC"/>				
 
 				<field 
 					name="avatar_link" 
 					type="radio" 
 					default="0" 
 					label="PLG_JCOMMENTS_AVATAR_FIELD_PROFILE_LINK_LABEL" 
-					description="PLG_JCOMMENTS_AVATAR_FIELD_PROFILE_LINK_DESC">
+					description="PLG_JCOMMENTS_AVATAR_FIELD_PROFILE_LINK_DESC"
+				        disabled="true">
 
 					<option value="0">JNO</option>
 					<option value="1">JYES</option>
@@ -65,7 +65,8 @@
 					type="list"
 					default="_blank" 
 					label="PLG_JCOMMENTS_AVATAR_FIELD_TARGET_LABEL" 
-					description="PLG_JCOMMENTS_AVATAR_FIELD_TARGET_DESC">
+					description="PLG_JCOMMENTS_AVATAR_FIELD_TARGET_DESC"
+				        disabled="true">
 
 					<option value="_blank">JBROWSERTARGET_NEW</option>
 					<option value="_self">JBROWSERTARGET_PARENT</option>
