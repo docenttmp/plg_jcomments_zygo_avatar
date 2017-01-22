@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension type="plugin" group="jcomments" version="2.5" method="upgrade">
+<extension type="plugin" group="jcomments" version="3.0" method="upgrade">
 	<name>Zygo JComments - Avatar</name>
 	<creationDate>22/01/2017</creationDate>
 	<author>docenttmp, original author - smart</author>
