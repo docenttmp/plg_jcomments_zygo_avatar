@@ -54,7 +54,7 @@
 					default="0" 
 					label="PLG_JCOMMENTS_AVATAR_FIELD_PROFILE_LINK_LABEL" 
 					description="PLG_JCOMMENTS_AVATAR_FIELD_PROFILE_LINK_DESC"
-				        disabled="true">
+				    disabled="true">
 
 					<option value="0">JNO</option>
 					<option value="1">JYES</option>
@@ -66,7 +66,7 @@
 					default="_blank" 
 					label="PLG_JCOMMENTS_AVATAR_FIELD_TARGET_LABEL" 
 					description="PLG_JCOMMENTS_AVATAR_FIELD_TARGET_DESC"
-				        disabled="true">
+				    disabled="true">
 
 					<option value="_blank">JBROWSERTARGET_NEW</option>
 					<option value="_self">JBROWSERTARGET_PARENT</option>
