@@ -4,9 +4,9 @@
  *
  * Enable avatar support for JComments
  *
- * @version 4.1
+ * @version 1.0
  * @package JComments
- * @author Sergey M. Litvinov (smart@joomlatune.ru)
+ * @author docenttmp, original author Sergey M. Litvinov (smart@joomlatune.ru)
  * @copyright (C) 2006-2014 by Sergey M. Litvinov (http://www.joomlatune.ru)
  * @license GNU/GPL: http://www.gnu.org/copyleft/gpl.html
  */
