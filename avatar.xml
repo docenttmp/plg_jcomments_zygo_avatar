@@ -47,34 +47,9 @@
 					type="media" 
 					label="PLG_JCOMMENTS_AVATAR_FIELD_CUSTOM_DEFAULT_AVATAR_LABEL" 
 					description="PLG_JCOMMENTS_AVATAR_FIELD_CUSTOM_DEFAULT_AVATAR_DESC"/>				
-
-				<field 
-					name="avatar_link" 
-					type="radio" 
-					default="0" 
-					label="PLG_JCOMMENTS_AVATAR_FIELD_PROFILE_LINK_LABEL" 
-					description="PLG_JCOMMENTS_AVATAR_FIELD_PROFILE_LINK_DESC"
-				    disabled="true">
-
-					<option value="0">JNO</option>
-					<option value="1">JYES</option>
-				</field>
-
-				<field 
-					name="avatar_link_target" 
-					type="list"
-					default="_blank" 
-					label="PLG_JCOMMENTS_AVATAR_FIELD_TARGET_LABEL" 
-					description="PLG_JCOMMENTS_AVATAR_FIELD_TARGET_DESC"
-				    disabled="true">
-
-					<option value="_blank">JBROWSERTARGET_NEW</option>
-					<option value="_self">JBROWSERTARGET_PARENT</option>
-				</field>
+				
 			</fieldset>
 		</fields>
 	</config>
-	<updateservers>
-		<server type="extension" priority="1" name="Zygo JComments - Avatar"></server>
-	</updateservers>
+	
 </extension>
