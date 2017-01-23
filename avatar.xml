@@ -7,7 +7,7 @@
 	<authorEmail>smart@joomlatune.ru</authorEmail>
 	<authorUrl>http://www.joomlatune.ru</authorUrl>
 	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<description>PLG_JCOMMENTS_AVATAR_XML_DESCRIPTION</description>
 	<files>
 		<filename plugin="avatar">avatar.php</filename>
