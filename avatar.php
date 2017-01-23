@@ -31,7 +31,7 @@ class plgJCommentsAvatar extends JPlugin
 	{
 		$db = JFactory::getDBO();
 
-		$avatar_type = $this->params->get('avatar_type', 'gravatar');
+		$avatar_type = $this->params->get('avatar_type', 'zygo');
 		$avatar_default_avatar = $this->params->get('avatar_default_avatar');
 		$avatar_custom_default_avatar = $this->params->get('avatar_custom_default_avatar');
 
