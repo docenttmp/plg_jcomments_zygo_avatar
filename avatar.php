@@ -90,7 +90,7 @@ class plgJCommentsAvatar extends JPlugin
 
      $uid = (int)$comment->userid;
 
-     if (isset($avatars[$uid]) && !empty(trim($avatars[$uid]->avatar))) {
+     if (isset($avatars[$uid]) && trim($avatars[$uid]->avatar) !== false ) {
       $comment->avatar = JURI::base() . $avatars[$uid]->avatar;
 	  $comment->online = $avatars[$uid]->online;
 	  $comment->usertime = $avatars[$uid]->usertime;
