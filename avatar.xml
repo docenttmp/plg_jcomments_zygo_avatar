@@ -7,7 +7,7 @@
 	<authorEmail>smart@joomlatune.ru</authorEmail>
 	<authorUrl>http://www.joomlatune.ru</authorUrl>
 	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<description>PLG_JCOMMENTS_AVATAR_XML_DESCRIPTION</description>
 	<files>
 		<filename plugin="avatar">avatar.php</filename>
@@ -60,5 +60,7 @@
 			</fieldset>
 		</fields>
 	</config>
-	
+	<updateservers>
+		<server type="extension" priority="1" name="Zygo JComments - Avatar">https://github.com/docenttmp/plg_jcomments_zygo_avatar/blob/updates/plg-jcomments-zygo-avatar.xml</server>
+	</updateservers>
 </extension>
