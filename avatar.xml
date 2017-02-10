@@ -61,6 +61,6 @@
 		</fields>
 	</config>
 	<updateservers>
-		<server type="extension" priority="1" name="Zygo JComments - Avatar">https://github.com/docenttmp/plg_jcomments_zygo_avatar/blob/updates/plg-jcomments-zygo-avatar.xml</server>
+		<server type="extension" priority="1" name="Zygo JComments - Avatar">https://github.com/docenttmp/plg_jcomments_zygo_avatar/blob/updates/plg-jcomments-zygo-avatar.xml?raw=true</server>
 	</updateservers>
 </extension>
