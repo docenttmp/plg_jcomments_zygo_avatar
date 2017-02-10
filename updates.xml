@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+	<update>
+		<name>Zygo JComments - Avatar</name>
+		<description>Plugin for JComments to support user avatars from Zygo Profile and user status : online/offline. Replace original plugin JComments - Avatar.</description>
+		<element>avatar</element>
+		<type>plugin</type>
+		<folder>jcomments</folder>
+		<version>1.0.2</version>
+		<infourl title="Zygo JComments - Avatar">https://github.com/docenttmp/plg_jcomments_zygo_avatar</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/docenttmp/plg_jcomments_zygo_avatar/archive/1.0.2.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer>docenttmp</maintainer>
+		<maintainerurl>http://joomlaforum.ru/index.php/topic,319940.0.html</maintainerurl>
+		<section>Updates</section>
+		<client>0</client>
+		<targetplatform name="joomla" version="3.[56]"/>
+		<php_minimum></php_minimum>
+	 </update>
+ </updates>
